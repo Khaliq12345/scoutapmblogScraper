@@ -1,0 +1,298 @@
+author,author_link,category,date,title
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"August 31, 2022",Microservice Application Monitoring Tips and Tricks
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"September 06, 2022",Laravel vs. Symfony: A Side-by-Side Comparison - Part 1
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"September 08, 2022",Laravel vs. Symfony: A Side-by-Side Comparison - Part 2
+Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,Engineering,"August 09, 2022",OpenTelemetry Architecture: Understanding Collectors
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"August 23, 2022",The Relationship Between Observability vs. Monitoring
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"August 17, 2022",Principles of Debugging
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"July 14, 2022",What is Response Time Analysis?
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"September 20, 2022",Software Delivery Platforms to Benefit DevOps Practices
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"July 19, 2022",Slow Application? Here’s What to Do
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"May 12, 2022",Popular Python Design Patterns
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"May 25, 2022",Monolithic Applications: A Relic of the Past?
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"May 31, 2022",Why API Monitoring is a Business Necessity
+Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,Engineering,"June 10, 2022",Configuring OpenTelemetry in Python
+Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,Engineering,"June 13, 2022",Installing and Configuring the OpenTelemetry Collector
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Performance,"October 04, 2022",Django Monitoring and APM Benefits
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"September 22, 2022",Flask Monitoring and APM Benefits
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Performance,"October 06, 2022",External Services Monitoring for Python
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Performance,"September 29, 2022",Flask Monitoring and APM Benefits
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Performance,"October 12, 2022",Biggest Mistakes Companies Make When Evaluating & Purchasing APM Software
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Performance,"September 26, 2022",Sky Rocket APM Performance with Log Analytics
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"August 11, 2022",Alerting: A Key Part of Application Performance Monitoring
+Nočnica Mellifera,https://scoutapm.com/blog/author/nocnica-mellifera,Performance,"October 27, 2022",How to Reduce the Costs of Downtime
+Scout APM ,https://scoutapm.com/blog/author/scout-apm,Performance,"November 01, 2022",Current DevOps Problems & How Scout APM Solves Them
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Performance,"October 18, 2022",What is Cloud Application Performance Monitoring?
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"April 07, 2022",Flask vs. Django - Which One Outperforms the Other?
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"April 30, 2022",10 Popular Design Patterns for Ruby on Rails
+Gautam Prajapati,https://scoutapm.com/blog/author/gautam-prajapati,Engineering,"April 16, 2022",A Comprehensive Guide to Migrating from Python 2 to Python 3
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"April 14, 2022",A Primer on Cloud Architecture
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"June 30, 2022",Get Started with Python Error Reporting
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"April 26, 2022",How to Improve Flask Performance
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"May 24, 2022",4 Best Practices for Root Cause Analysis
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"May 05, 2022",The Real Benefits of HTTP Monitoring for Businesses
+Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,Engineering,"May 06, 2022",Instrumenting Your Custom Application Code with OpenTelemetry
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"April 29, 2022",How to Combat Python Memory Leaks
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"July 07, 2022",How to Increase PHP Memory Limits
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"January 25, 2022",The Business Case for Docker Adoption
+Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,Engineering,"February 02, 2022",What is OpenTelemetry and Why is Scout All In?
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"July 12, 2022",How to Optimize Laravel Application Performance
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"July 05, 2022",Error Monitoring - The Necessary Application Feature
+Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,Engineering,"February 02, 2022",Configuring OpenTelemetry in Ruby
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"February 08, 2022",Distributed Monoliths vs. Microservices: Which Are You Building?
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"May 10, 2022","Kubernetes Basics: Clusters, Pods, and Nodes"
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Performance,"June 23, 2022",Microservice Monitoring Tools + Best Practices
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Performance,"June 28, 2022",Frontend Monitoring: Benefits and Best Practices
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Performance,"July 21, 2022",6 Popular End User Monitoring Tools in 2021
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Performance,"June 16, 2022",What’s Up with Synthetic Monitoring?
+Nočnica Mellifera,https://scoutapm.com/blog/author/nocnica-mellifera,Performance,"August 02, 2022",Pros and Cons of Installing the OpenTelemetry Collector
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Performance,"August 25, 2022",ROI Benefits of APM Tools
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Performance,"September 13, 2022",Web Endpoint Monitoring
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"February 10, 2022",Canary Testing - What It Is And Why You Should Use It
+Nočnica Mellifera,https://scoutapm.com/blog/author/nocnica-mellifera,Performance,"August 19, 2022",The Ultimate OpenTelemetry Guide for Developers
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"July 28, 2022",Open Source APM Tools
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"October 28, 2021",Prometheus Architecture Explained
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Performance,"February 22, 2022",APM vs. Logging: Do I Need Both?
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"February 15, 2022",How Distributed Tracing Saves Time and Money
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"March 01, 2022",Monolithic Application Performance Monitoring
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Performance,"June 07, 2022",Business Application Monitoring: Why Your Company Needs APM
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"March 22, 2022",Instrumentation: Measuring Application Performance at the Code Level
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Performance,"March 31, 2022",Top Infrastructure Monitoring Tools and Best Practices
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"February 24, 2022",Monitoring Application Response Times
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Performance,"March 03, 2022",A Look at the 6 Best Python Error Monitoring Tools in 2022
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"September 07, 2021",Node.js Module Exports Explained
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Performance,"March 10, 2022","Serverless Architecture: Pros, Cons, and Examples"
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"September 23, 2021",How to Use Ruby BEGIN and END Blocks
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"October 05, 2021",Monitoring Kubernetes with Prometheus
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"September 27, 2021",Ruby Flip Flop: What It Is and When to Use It
+Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,Performance,"April 12, 2022",OpenTelemetry Collector - What Is It?
+Kailey McIntyre,https://scoutapm.com/blog/author/kailey-mcintyre,Performance,"December 09, 2021","What is External Services Monitoring, and Why is it Important?"
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"December 21, 2021",New Relic vs. Appdynamics vs. Scout APM
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Performance,"December 02, 2021",Splunk vs. Dynatrace vs. Scout
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"September 16, 2021",PHP Handlers | Why They Matter
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"July 06, 2021",Premature Optimization: Root of All Evil or Rationalization?
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Performance,"January 04, 2022",The Case for Frontend Performance Monitoring
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"December 30, 2021",Datadog vs. Splunk vs. Scout | How Do They Compare?
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"July 13, 2021",What is SDLC? An Intro to the Software Development Lifecycle
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"July 15, 2021",A Comprehensive Cloud Migration Checklist
+Dan Moore,https://scoutapm.com/blog/author/dan-moore,Performance,"April 15, 2020",How to Start Using Counter Caches in Rails
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Performance,"June 01, 2020",Video: Identifying Memory Bloat and Monitoring Memory Usage
+Adam Johnson,https://scoutapm.com/blog/author/adam-johnson,Python,"August 13, 2020",Django and the N+1 Queries Problem
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Performance,"September 10, 2020",Database Monitoring and Performance
+Jack Rothrock,https://scoutapm.com/blog/author/jack-rothrock,Performance,"October 01, 2020",The 7 Application Performance Metrics You Need to Measure and Why
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"November 20, 2020",5 hard-earned lessons from a decade of Rails performance work
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"July 08, 2021",What is Prometheus? The Essential Guide
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"November 04, 2021",A Look at the 10 Best Error Monitoring Tools in 2021
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"July 20, 2021",What is Agile Methodology and How Does it Work?
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Performance,"November 02, 2021",6 Bugsnag Alternatives to Consider in 2021
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"March 25, 2021",How to Create a Ruby Function on AWS Lambda
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Python,"August 24, 2018",Monitor a Django app with Scout
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Python,"July 31, 2018",Monitoring Django apps on Heroku
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Php,"July 02, 2019",2019 PHP Monitoring Options
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Performance,"August 13, 2019",Benchmarking Ruby Code
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Performance,"March 07, 2019",Forecasting Web Traffic with Scout and Prophet
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Php,"September 03, 2019",Monitor a Laravel app with Scout
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Python,"March 12, 2019","Is your Django app slow? Think like a data scientist, not an engineer"
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Performance,"November 23, 2021",Datadog vs. Dynatrace vs. Scout
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Performance,"June 30, 2019",Understanding Disk I/O: When Should You Be Worried?
+PJ Hagerty,https://scoutapm.com/blog/author/pj-hagerty,Performance,"March 03, 2020",A Complete Guide to Rails Caching
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"April 13, 2021",Should You Use Rails Concerns?
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"March 30, 2021",PHP vs. Python: Is One Better Than The Other?
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"February 02, 2021",3 Ways to Reuse Twig Templates in Symfony
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"February 09, 2021",How to Steer Clear of Application Performance Bottlenecks
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"March 01, 2020",Five tools for profiling Rails apps
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"February 04, 2021",The Complete Guide to Microservices
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"February 23, 2021",Container Monitoring: Essential Tools + Best Practices
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"March 04, 2021",Functional vs. Procedural vs. Object-Oriented Programming
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"February 16, 2021",15 Tips for Better Python Performance
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"April 29, 2021",A Guide to Error Handling in Express.js
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"March 02, 2021",The State of Ruby on Rails in 2021
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"March 16, 2021",What is a Docker Container?
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"March 11, 2021",30 World-Class JS and Node.JS Developers to Follow in 2021
+Arwin Lashawn,https://scoutapm.com/blog/author/arwin-lashawn,Engineering,"March 09, 2021",Comparing Top Container Software Options for 2021
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"December 17, 2020",Setting Up TailwindCSS on Laravel
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"December 22, 2020","The Top Features of Eloquent, Laravel’s ORM"
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"January 13, 2021",How to Identify and Debug Memory Bloat
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"January 15, 2021",Types in Ruby 3: New Features Explained
+Emmanuel Christian,https://scoutapm.com/blog/author/emmanuel-christian,Engineering,"December 28, 2020",How To Detect and Prevent Memory Leaks
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"January 19, 2021",How Common Application Issues Kill Performance
+Arwin Lashawn,https://scoutapm.com/blog/author/arwin-lashawn,Engineering,"January 21, 2021",Set up a CI/CD Pipeline with Cloud-Native Tools
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"January 28, 2021",8 Crucial Database Performance Metrics
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"January 26, 2021",Ractor: Ruby’s Version of the Actor Model
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"August 17, 2017",Autocorrect with Postgres Trigrams
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"July 12, 2016",Faster PostgreSQL Searches with Trigrams
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"January 09, 2017",State of the 2017 Rails Stack
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"December 30, 2020",How (and Why) to Use Ruby Enumerators
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"September 16, 2015",StackProf: The Holy Grail of Rails Profiling
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"October 19, 2015",Git-integrated app monitoring
+Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,Performance,"April 21, 2016",Monitoring Sidekiq Jobs
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"December 29, 2015",State of the 2016 Rails Stack
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"October 22, 2020",Containers vs. VMs: Which Should You Use?
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"February 07, 2016",Overhead Benchmarks: New Relic vs. Scout
+Pawel Urbanek,https://scoutapm.com/blog/author/pawel-urbanek,Engineering,"November 03, 2020",Performance Impact of Using Ruby on Rails View Partials
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"November 10, 2020",Python Garbage Collection: A Guide for Developers
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"December 02, 2015",Pillars of the Rails Monitoring Stack: 2020 Edition
+Arwin Lashawn,https://scoutapm.com/blog/author/arwin-lashawn,Engineering,"December 04, 2020",Python Memory Management: The Essential Guide
+Sarmad Saleem,https://scoutapm.com/blog/author/sarmad-saleem,Engineering,"November 17, 2020",How to Monitor Kubernetes Applications
+Sarmad Saleem,https://scoutapm.com/blog/author/sarmad-saleem,Engineering,"October 29, 2020",Container Orchestration Tools Explained
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"October 27, 2020",The 9 Most Popular PHP Frameworks for Developers
+David Tidmarsh,https://scoutapm.com/blog/author/david-tidmarsh,Engineering,"September 02, 2020",Serverless vs. Containers: Key Differences Explained
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"July 29, 2008",4 Simple Steps to Detect & Fix Slow Rails Requests
+Jeremy Hillpot,https://scoutapm.com/blog/author/jeremy-hillpot,Engineering,"September 04, 2020",Kubernetes vs. Docker
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Engineering,"September 15, 2020",Finding and Fixing N+1 Queries
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"December 09, 2020",Latest Ruby Versions Updated in Real Time
+Emmanuel Christian,https://scoutapm.com/blog/author/emmanuel-christian,Engineering,"September 22, 2020",How Containerized Applications Increase Speed & Efficiency
+Matt Sanders,https://scoutapm.com/blog/author/matt-sanders,Engineering,"September 29, 2020",Application Performance Monitoring - What is APM?
+Sarmad Saleem,https://scoutapm.com/blog/author/sarmad-saleem,Engineering,"September 15, 2020",An Introduction to Kubernetes and Its Uses
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"October 08, 2020",How to Use Docker’s Health Check Command
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"October 14, 2020",Asynchronous Javascript: From Promises to Async/Await
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"December 08, 2009",Production Rails Tuning with Passenger: PassengerMaxProcesses
+Arwin Lashawn,https://scoutapm.com/blog/author/arwin-lashawn,Engineering,"October 20, 2020",Continuous Integration vs. Continuous Deployment
+Jake Stinson,https://scoutapm.com/blog/author/jake-stinson,Engineering,"October 06, 2020",Log Analysis: What Is It and How Does It Work?
+Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,Performance,"July 31, 2014",Slow Server? This is the Flow Chart You're Looking For
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"August 23, 2012",Removing deadweight - cleaning up our Rails app
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"May 17, 2015",Rails App Monitoring (APM) with StatsD
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"March 16, 2015",Monitoring Docker with docker-scout
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"December 12, 2020",A Primer on Ruby Yield and Blocks
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"April 28, 2016",Getting down with Stackprof: how we added N+1 query detection to Scout
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"May 31, 2016",3 pleasantly surprising PostgreSQL Indexing tricks
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"October 06, 2017",Finding fast (but expensive) database queries
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"June 14, 2016",A Six-Pronged Rails Performance Philosophy
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"October 21, 2017",DataDog vs. Scout: which is right for you?
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"May 09, 2016",Rails Performance and the root of all evil
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"December 22, 2017",Real User Monitoring with Raygun
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"December 15, 2020",A Guide to Using Nested Routes in Ruby
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"October 27, 2017",A 5-point Rails app performance audit
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"June 11, 2020",How to Convert a String to a Number in PHP
+Matt Sanders,https://scoutapm.com/blog/author/matt-sanders,Engineering,"July 02, 2020",The Most Popular Python Web Frameworks in 2021
+Matthew Thompson,https://scoutapm.com/blog/author/matthew-thompson,Engineering,"May 29, 2020","PHP Memory Leaks, How to Find and Fix Them"
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"July 09, 2020",How to Create a Python Stack
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"July 17, 2020",How to Use PHP Include and Require Statements
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"August 07, 2020",Node.js Logging: A How-to Guide
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"August 20, 2020",Node.js Architecture and 12 Best Practices for Node.js Development
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"June 25, 2020",How to Enable PHP Error Reporting
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Performance,"March 15, 2018",Rollbar+Scout: a legit New Relic alternative
+Adam Johnson,https://scoutapm.com/blog/author/adam-johnson,Engineering,"June 19, 2020",Better Python Decorators with Wrapt
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Python,"April 30, 2018",Finding and fixing N+1 queries in Django apps
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"May 04, 2021",Kubernetes: Weighing Advantages and Disadvantages
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Python,"May 29, 2018",Django Application Monitoring (APM) with StatsD
+Gautam Prajapati,https://scoutapm.com/blog/author/gautam-prajapati,Engineering,"February 26, 2020",Migrating from Python 2 to 3: Automated Tools and Strategies
+Adam Johnson,https://scoutapm.com/blog/author/adam-johnson,Engineering,"July 24, 2020",A Guide to Python Lambda Functions
+PJ Hagerty,https://scoutapm.com/blog/author/pj-hagerty,Engineering,"March 17, 2020",Programmatically Adding Laravel Middleware
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"March 24, 2020",Tutorial: Log to Console in PHP
+Dan Moore,https://scoutapm.com/blog/author/dan-moore,Engineering,"April 23, 2020",How to Use Lambdas in Ruby
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"May 06, 2021",The Essential Guide to PHP Error Logging
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"May 01, 2020",PHP Json_encode: Serialize PHP Objects to JSON
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"April 01, 2020",Go Fast: Getting Started with Sanic for Python
+Dan Moore,https://scoutapm.com/blog/author/dan-moore,Engineering,"May 07, 2020",Ruby Garbage Collection | Memory Management
+David Tidmarsh,https://scoutapm.com/blog/author/david-tidmarsh,Engineering,"April 08, 2020",Elixir GenServers: Overview and Tutorial
+Thomas Finch,https://scoutapm.com/blog/author/thomas-finch,Engineering,"May 22, 2020",A Tour of 7 Popular Ruby Frameworks in 2021
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Engineering,"September 27, 2019","Birds of a Fiber: A look at Falcon, a modern asynchronous web server for Ruby"
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"November 12, 2019",PHP Advanced Exceptions Tutorial
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"May 11, 2021",Concrete Steps to Reducing MTTR
+Pranam Lashkari,https://scoutapm.com/blog/author/pranam-lashkari,Engineering,"November 25, 2019",Memory Management in Python
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"November 19, 2019",Exception Handling in Ruby
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"September 13, 2019",Understanding page faults and memory swap-in/outs: when should you worry?
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"May 14, 2020",Control Structures in PHP: Loop Types Explained
+Tim Grossman,https://scoutapm.com/blog/author/tim-grossman,Engineering,"November 25, 2019",Python Protocol Buffers
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"May 18, 2021",Alternatives to Using GitHub in 2021
+Erik Jacobsen,https://scoutapm.com/blog/author/erik-jacobsen,Engineering,"June 10, 2019",Prometheus and Docker: Monitoring Your Environment
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"April 19, 2022",Best PHP Monitoring Tools on the Market
+Satwik Kansal,https://scoutapm.com/blog/author/satwik-kansal,Engineering,"January 06, 2020",Python vs. Ruby
+Gautam Prajapati,https://scoutapm.com/blog/author/gautam-prajapati,Engineering,"November 29, 2019",A Comprehensive Guide to migrating from Python 2(Legacy) to Python 3
+Minhajuddin Khaja,https://scoutapm.com/blog/author/minhajuddin-khaja,Engineering,"June 17, 2019","How to use Mint, an awesome HTTP library for Elixir - Part 02"
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Performance,"November 09, 2021",New Relic vs. Sentry vs. Scout
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Engineering,"June 18, 2019",Understanding Heroku Error Codes with Scout APM
+Satwik Kansal,https://scoutapm.com/blog/author/satwik-kansal,Engineering,"January 24, 2020",Python vs. Java: Comparing Two Popular Programming Languages
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Engineering,"July 05, 2019",Continuous Deployment Tools
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Engineering,"July 08, 2019",Unicorn vs. Puma vs. Passenger: which app server is right for you?
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"February 04, 2020",Python Flask Tutorial - Getting Started with Flask
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Engineering,"June 18, 2019","Making sense of ActiveRecord joins, includes, preload, and eager_load"
+Satwik Kansal,https://scoutapm.com/blog/author/satwik-kansal,Engineering,"July 08, 2019",Identifying bottlenecks and optimizing performance in a Python codebase
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"May 04, 2019",Rails::API vs. Sinatra vs. Grape: which Ruby microframework is right for you?
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Engineering,"July 09, 2019",What’s new in Rails 6?
+Minhajuddin Khaja,https://scoutapm.com/blog/author/minhajuddin-khaja,Engineering,"May 15, 2019","How to use Mint, an awesome HTTP library for Elixir - Part 01"
+Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,Engineering,"May 16, 2019",Free memory on Linux: free -m vs /proc/meminfo
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Engineering,"May 24, 2019",Building Docker Containers for our Rails Apps
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Engineering,"May 20, 2019",8 Things You Should Know About Docker Containers
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Engineering,"July 19, 2019",Monitoring Apdex with Scout APM
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Engineering,"June 05, 2019",Debugging with Rails Logger
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"June 05, 2019",Which Ruby background job framework is right for you?
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Engineering,"June 03, 2019",Understanding Linux CPU stats
+Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,Engineering,"July 28, 2019",Understanding Linux CPU Load - when should you be worried?
+Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,Engineering,"May 31, 2019",Container Orchestration in 2019
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"June 01, 2021",How to Optimize Docker Performance
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"May 08, 2019",The danger of Rails.env.production?
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"January 31, 2018",AWS Disaster Recovery: Configuring a Read Replica and a Multi-AZ
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"May 25, 2021",A Guide to Application Monitoring Best Practices
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"February 13, 2018",Deploying Faktory to AWS Fargate
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"May 24, 2018",Finding slow ActiveRecord queries with Scout
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"December 20, 2018",Omnibus Tutorial: Package a standalone Ruby gem
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"April 10, 2018",Why put Rust in our Python Monitoring agent?
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"March 15, 2018","Setting up a Rails app for CodeBuild, CodeDeploy, and CodePipeline on AWS"
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"July 12, 2018",Part I: How not to structure your database-backed web apps
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Engineering,"January 20, 2019",What you need to know about Ruby Interpreter
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"February 20, 2018",Deploying a Faktory worker to AWS Fargate
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Engineering,"April 17, 2019","Restricting Process CPU Usage Using nice, cpulimit, and cgroups"
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"July 29, 2021",Logging and Monitoring: A Match Made in Software Heaven
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"January 02, 2018",Deploying to AWS Part I: Docker Rails Deployment
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"December 30, 2017",Observability: the new wave or another buzzword?
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"August 05, 2021",8 Dynatrace Alternatives to Consider in 2021
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"August 12, 2021",How to Retry in Ruby
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Performance,"November 11, 2021",6 Rollbar Alternatives to Consider in 2021
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"January 08, 2018",How to Deploy a Rails App to Amazon AWS Using Fargate (Part II)
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"January 16, 2018",Deploying to AWS Part IV: Performance monitoring with Scout
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"January 10, 2018",Deploying to AWS Part III: Log aggregation
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"January 17, 2018",Tutorial: Distributed Tracing in Ruby with OpenTracing
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"August 03, 2021",Getting Started with Docker: A Tutorial
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"January 19, 2018","Deploying to AWS Part V: the final punch list (load balancer, CDN, SSL)"
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"January 15, 2018",OpenTracing Tutorial: Using Flask Python Requests
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"January 26, 2018",AWS Disaster Recovery: an overview and a backups tutorial
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"January 11, 2022",How Automated Application Monitoring Saves Time and Money
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"January 16, 2018",A tour of Python monitoring tools
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"August 17, 2021",Dynatrace vs. SolarWinds vs. Scout
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Performance,"January 29, 2022",6 Alternatives to Sentry Error Monitoring
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"October 12, 2021",A Developer’s Guide to Web Application Architecture
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"October 14, 2021",A Primer on Prometheus Metrics
+Arwin Lashawn,https://scoutapm.com/blog/author/arwin-lashawn,Engineering,"October 19, 2021",What is Full Cycle Software Development?
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"September 25, 2014",From Ruby to Go: a rewrite for the future
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Engineering,"October 08, 2014",Understanding disk inodes
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"June 22, 2015",An intro to the Docker Stats API
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"December 09, 2015",4 ways to get the most out of your Rails logs
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"December 19, 2014",From MySQL full-text search to Elasticsearch
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"April 12, 2016",3 Git Productivity Hacks
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"December 08, 2016",Elixir foundations for Ruby Devs: transforming data
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"March 07, 2016",Java for Rubyists
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"May 30, 2017",Monitoring GenServer calls with Scout
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"October 13, 2017",Visualizing Rails logs With Jupyter Notebook
+Dinesh Surapuraju,https://scoutapm.com/blog/author/dinesh-surapuraju,Performance,"February 01, 2022",Python Performance Measurement Tools
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"November 16, 2021",.NET Core vs. .NET Framework: Side-by-Side Comparison
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"October 27, 2021",What are Script Errors and How Can We Address Them?
+Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,Performance,"April 14, 2022",Application Performance Monitoring vs Application Performance Observability
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"October 21, 2021",The Developer’s Guide to SOLID Design Principles
+Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,Engineering,"February 26, 2010",MongoDB Slow Queries Monitoring
+Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,Engineering,"September 07, 2010",RVM and cron in production
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"October 06, 2010",Determining free memory on Linux
+Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,Engineering,"August 19, 2010",MySQL Tuning Tips with Scout
+Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,Engineering,"May 10, 2011",The Short and Sweet SSL How-to
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"September 15, 2010",Embedded Customer Support With Rapportive
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"March 30, 2011",Detect and Fix HAProxy+Apache+Passenger Queue Backlogs
+Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,Engineering,"July 25, 2013",Understanding CPU Steal Time - when should you be worried?
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"November 16, 2021",Monolithic vs. Microservices Architecture: A Side-by-Side Comparison
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"September 24, 2013",From MySQL+MMM to MariaDB+Galera Cluster: A High Availability Makeover
+Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,Engineering,"February 01, 2010",Production Server Sysadmin Essentials
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"December 16, 2021",Express vs. Hapi: A Head-to-Head Comparison
+Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,Engineering,"August 28, 2013",Docker: Git for deployment
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"January 13, 2022",How to Use the Delegate Method in Rails
+Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,Engineering,"March 07, 2022",OpenTelemetry and Distributed Tracing in JavaScript
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"January 19, 2022",SOA vs. Microservices: A Head-to-Head Comparison
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"December 07, 2021",Encapsulation in OOP: Definition and Examples
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"January 20, 2022",End-User Monitoring: How it Can Impact Your Business
+Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,Engineering,"March 19, 2022",How to Manage Ruby Memory Usage
+Scout APM ,https://scoutapm.com/blog/author/scout-apm,Engineering,"April 05, 2022",What is Cloud-Native Monitoring?
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Engineering,"March 29, 2022",Getting Started with Prometheus and Grafana
+Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,Engineering,"January 06, 2022",Azure vs. AWS vs. GCP: A Direct Comparison
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Engineering,"December 14, 2021","How to Find, Fix, and Prevent Node.js Memory Leaks"
+Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,Engineering,"March 17, 2022",Proper Python Instrumentation: 5 Things to Keep In Mind
+Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,Performance,"January 27, 2022",Stackify vs. New Relic vs. Scout | APM Tool Comparison
+Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,Performance,"September 15, 2022",Current State of AIOps Technology
